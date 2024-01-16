@@ -6,6 +6,7 @@
 html,body{
     width: 100vw;
     height: 100vh;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
 }
 .btn-danger{
     color: rgb(255, 255, 255);
