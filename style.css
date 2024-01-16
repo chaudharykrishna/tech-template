@@ -1,0 +1,22 @@
+*{
+    margin: 0;
+    padding:0;
+    box-sizing: border-box;
+}
+html,body{
+    width: 100vw;
+    height: 100vh;
+}
+.btn-danger{
+    color: rgb(255, 255, 255);
+    background-color: #ff8000;
+}
+.btn-danger:hover{
+    background-color: #ffffff;
+    border:1px solid #ff8000;
+    color: black;
+}
+.banner{
+    background-color: #ff8000b9;
+    color: #ffffff;
+}
